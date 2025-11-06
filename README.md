@@ -1,6 +1,6 @@
 # 🛒 Amar Dukan – Simple & Responsive E-commerce Site
 
-**Amar Dukan** (meaning "My Shop") is a sleek, simple, and fully responsive e-commerce website built as a mid-term web development project. It showcases fundamental front-end skills, focusing on dynamic user interaction through **JavaScript DOM manipulation**.
+**Amar Dukan** (meaning 'My Shop') is a fully responsive e-commerce frontend application, developed as a successful **Mid-term examination project**. It showcases strong command of fundamental front-end skills, with all dynamic cart functionality and real-time financial calculations driven by precise Vanilla **JavaScript DOM manipulation**.
 
 ---
 
